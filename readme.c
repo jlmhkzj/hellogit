@@ -11,3 +11,13 @@
 -------second commit
 
 -------three commit
+
+1.git log
+
+2.git reflog
+
+3.git reset --hard HEAD^^^
+
+4.git reset --hard xxx
+
+-------four commit
