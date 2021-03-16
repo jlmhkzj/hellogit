@@ -21,3 +21,9 @@
 4.git reset --hard xxx
 
 -------four commit
+
+1.git restore xxx.txt
+
+2.git restore --staged
+
+-------five commit
